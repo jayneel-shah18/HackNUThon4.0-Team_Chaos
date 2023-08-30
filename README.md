@@ -10,10 +10,10 @@ We hacve implemented two options to detect malicious websites. In Automated Scra
 ![Manual Scrapper](https://user-images.githubusercontent.com/104895751/235342304-7a04391e-5abc-42e8-998c-9d0eb361931c.jpeg)
 
 # Made By
-https://github.com/jayneel-shah18
+[Jayneel Shah](https://github.com/jayneel-shah18)
 <br>
-https://github.com/codersmiti
+[Smiti Kothari](https://github.com/codersmiti)
 <br>
-https://github.com/DhruviShah101
+[Dhruvi Shah](https://github.com/DhruviShah101)
 <br>
-https://github.com/Kiraschild
+[Vedant Patel](https://github.com/Kiraschild)
